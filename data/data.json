@@ -1,0 +1,1576 @@
+{
+  "meta": {
+    "title": "Prometni utrip Tržiča",
+    "location": "CABLEX",
+    "coordinates": {
+      "lat": 46.357972,
+      "lon": 14.296889
+    },
+    "speedLimit": 50,
+    "trafficRange": {
+      "from": "2026-05-27",
+      "to": "2026-07-15"
+    },
+    "parkingRange": {
+      "from": "2026-07-06",
+      "to": "2026-07-13"
+    },
+    "notes": [
+      "Promet je agregiran po dnevih.",
+      "Hitrosti so skupna povprečja po tipu vozila.",
+      "Parkirišča so agregirana po tednih."
+    ]
+  },
+  "traffic": [
+    {
+      "date": "2026-05-27",
+      "vehicleType": "Osebni avtomobil",
+      "count": 6637
+    },
+    {
+      "date": "2026-05-28",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8816
+    },
+    {
+      "date": "2026-05-29",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9195
+    },
+    {
+      "date": "2026-05-30",
+      "vehicleType": "Osebni avtomobil",
+      "count": 6848
+    },
+    {
+      "date": "2026-05-31",
+      "vehicleType": "Osebni avtomobil",
+      "count": 4303
+    },
+    {
+      "date": "2026-06-01",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9452
+    },
+    {
+      "date": "2026-06-02",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9115
+    },
+    {
+      "date": "2026-06-03",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8333
+    },
+    {
+      "date": "2026-06-04",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9845
+    },
+    {
+      "date": "2026-06-05",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9403
+    },
+    {
+      "date": "2026-06-06",
+      "vehicleType": "Osebni avtomobil",
+      "count": 7246
+    },
+    {
+      "date": "2026-06-07",
+      "vehicleType": "Osebni avtomobil",
+      "count": 5129
+    },
+    {
+      "date": "2026-06-08",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9504
+    },
+    {
+      "date": "2026-06-09",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8772
+    },
+    {
+      "date": "2026-06-10",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8653
+    },
+    {
+      "date": "2026-06-11",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9466
+    },
+    {
+      "date": "2026-06-12",
+      "vehicleType": "Osebni avtomobil",
+      "count": 7402
+    },
+    {
+      "date": "2026-06-13",
+      "vehicleType": "Osebni avtomobil",
+      "count": 7788
+    },
+    {
+      "date": "2026-06-14",
+      "vehicleType": "Osebni avtomobil",
+      "count": 4809
+    },
+    {
+      "date": "2026-06-15",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9209
+    },
+    {
+      "date": "2026-06-16",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9186
+    },
+    {
+      "date": "2026-06-17",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9347
+    },
+    {
+      "date": "2026-06-18",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9271
+    },
+    {
+      "date": "2026-06-19",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9511
+    },
+    {
+      "date": "2026-06-20",
+      "vehicleType": "Osebni avtomobil",
+      "count": 7355
+    },
+    {
+      "date": "2026-06-21",
+      "vehicleType": "Osebni avtomobil",
+      "count": 4753
+    },
+    {
+      "date": "2026-06-22",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9199
+    },
+    {
+      "date": "2026-06-23",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9044
+    },
+    {
+      "date": "2026-06-24",
+      "vehicleType": "Osebni avtomobil",
+      "count": 9979
+    },
+    {
+      "date": "2026-06-25",
+      "vehicleType": "Osebni avtomobil",
+      "count": 5005
+    },
+    {
+      "date": "2026-06-26",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8118
+    },
+    {
+      "date": "2026-06-27",
+      "vehicleType": "Osebni avtomobil",
+      "count": 6832
+    },
+    {
+      "date": "2026-06-28",
+      "vehicleType": "Osebni avtomobil",
+      "count": 4465
+    },
+    {
+      "date": "2026-06-29",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8699
+    },
+    {
+      "date": "2026-06-30",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8504
+    },
+    {
+      "date": "2026-07-01",
+      "vehicleType": "Osebni avtomobil",
+      "count": 7112
+    },
+    {
+      "date": "2026-07-02",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8701
+    },
+    {
+      "date": "2026-07-03",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8802
+    },
+    {
+      "date": "2026-07-04",
+      "vehicleType": "Osebni avtomobil",
+      "count": 7184
+    },
+    {
+      "date": "2026-07-05",
+      "vehicleType": "Osebni avtomobil",
+      "count": 4748
+    },
+    {
+      "date": "2026-07-06",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8033
+    },
+    {
+      "date": "2026-07-07",
+      "vehicleType": "Osebni avtomobil",
+      "count": 6762
+    },
+    {
+      "date": "2026-07-08",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8299
+    },
+    {
+      "date": "2026-07-09",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8686
+    },
+    {
+      "date": "2026-07-10",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8939
+    },
+    {
+      "date": "2026-07-11",
+      "vehicleType": "Osebni avtomobil",
+      "count": 6796
+    },
+    {
+      "date": "2026-07-12",
+      "vehicleType": "Osebni avtomobil",
+      "count": 4676
+    },
+    {
+      "date": "2026-07-13",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8697
+    },
+    {
+      "date": "2026-07-14",
+      "vehicleType": "Osebni avtomobil",
+      "count": 8036
+    },
+    {
+      "date": "2026-07-15",
+      "vehicleType": "Osebni avtomobil",
+      "count": 1359
+    },
+    {
+      "date": "2026-05-27",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 62
+    },
+    {
+      "date": "2026-05-28",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 71
+    },
+    {
+      "date": "2026-05-29",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 100
+    },
+    {
+      "date": "2026-05-30",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 88
+    },
+    {
+      "date": "2026-05-31",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 148
+    },
+    {
+      "date": "2026-06-01",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 553
+    },
+    {
+      "date": "2026-06-02",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 643
+    },
+    {
+      "date": "2026-06-03",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 457
+    },
+    {
+      "date": "2026-06-04",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 612
+    },
+    {
+      "date": "2026-06-05",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 436
+    },
+    {
+      "date": "2026-06-06",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 390
+    },
+    {
+      "date": "2026-06-07",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 211
+    },
+    {
+      "date": "2026-06-08",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 558
+    },
+    {
+      "date": "2026-06-09",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 585
+    },
+    {
+      "date": "2026-06-10",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 468
+    },
+    {
+      "date": "2026-06-11",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 677
+    },
+    {
+      "date": "2026-06-12",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 518
+    },
+    {
+      "date": "2026-06-13",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 357
+    },
+    {
+      "date": "2026-06-14",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 202
+    },
+    {
+      "date": "2026-06-15",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 661
+    },
+    {
+      "date": "2026-06-16",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 635
+    },
+    {
+      "date": "2026-06-17",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 586
+    },
+    {
+      "date": "2026-06-18",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 580
+    },
+    {
+      "date": "2026-06-19",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 566
+    },
+    {
+      "date": "2026-06-20",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 280
+    },
+    {
+      "date": "2026-06-21",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 192
+    },
+    {
+      "date": "2026-06-22",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 596
+    },
+    {
+      "date": "2026-06-23",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 558
+    },
+    {
+      "date": "2026-06-24",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 592
+    },
+    {
+      "date": "2026-06-25",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 225
+    },
+    {
+      "date": "2026-06-26",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 458
+    },
+    {
+      "date": "2026-06-27",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 271
+    },
+    {
+      "date": "2026-06-28",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 177
+    },
+    {
+      "date": "2026-06-29",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 513
+    },
+    {
+      "date": "2026-06-30",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 515
+    },
+    {
+      "date": "2026-07-01",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 408
+    },
+    {
+      "date": "2026-07-02",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 496
+    },
+    {
+      "date": "2026-07-03",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 557
+    },
+    {
+      "date": "2026-07-04",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 347
+    },
+    {
+      "date": "2026-07-05",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 194
+    },
+    {
+      "date": "2026-07-06",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 662
+    },
+    {
+      "date": "2026-07-07",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 409
+    },
+    {
+      "date": "2026-07-08",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 538
+    },
+    {
+      "date": "2026-07-09",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 544
+    },
+    {
+      "date": "2026-07-10",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 554
+    },
+    {
+      "date": "2026-07-11",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 265
+    },
+    {
+      "date": "2026-07-12",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 170
+    },
+    {
+      "date": "2026-07-13",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 521
+    },
+    {
+      "date": "2026-07-14",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 507
+    },
+    {
+      "date": "2026-07-15",
+      "vehicleType": "Kombinirano vozilo",
+      "count": 108
+    },
+    {
+      "date": "2026-05-27",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 24
+    },
+    {
+      "date": "2026-05-28",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 36
+    },
+    {
+      "date": "2026-05-29",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 32
+    },
+    {
+      "date": "2026-05-30",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 21
+    },
+    {
+      "date": "2026-05-31",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 37
+    },
+    {
+      "date": "2026-06-01",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 243
+    },
+    {
+      "date": "2026-06-02",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 253
+    },
+    {
+      "date": "2026-06-03",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 164
+    },
+    {
+      "date": "2026-06-04",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 256
+    },
+    {
+      "date": "2026-06-05",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 186
+    },
+    {
+      "date": "2026-06-06",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 65
+    },
+    {
+      "date": "2026-06-07",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 34
+    },
+    {
+      "date": "2026-06-08",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 218
+    },
+    {
+      "date": "2026-06-09",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 247
+    },
+    {
+      "date": "2026-06-10",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 195
+    },
+    {
+      "date": "2026-06-11",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 237
+    },
+    {
+      "date": "2026-06-12",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 204
+    },
+    {
+      "date": "2026-06-13",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 94
+    },
+    {
+      "date": "2026-06-14",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 42
+    },
+    {
+      "date": "2026-06-15",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 268
+    },
+    {
+      "date": "2026-06-16",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 248
+    },
+    {
+      "date": "2026-06-17",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 241
+    },
+    {
+      "date": "2026-06-18",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 213
+    },
+    {
+      "date": "2026-06-19",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 235
+    },
+    {
+      "date": "2026-06-20",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 51
+    },
+    {
+      "date": "2026-06-21",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 35
+    },
+    {
+      "date": "2026-06-22",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 211
+    },
+    {
+      "date": "2026-06-23",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 230
+    },
+    {
+      "date": "2026-06-24",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 210
+    },
+    {
+      "date": "2026-06-25",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 43
+    },
+    {
+      "date": "2026-06-26",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 164
+    },
+    {
+      "date": "2026-06-27",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 61
+    },
+    {
+      "date": "2026-06-28",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 32
+    },
+    {
+      "date": "2026-06-29",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 181
+    },
+    {
+      "date": "2026-06-30",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 191
+    },
+    {
+      "date": "2026-07-01",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 148
+    },
+    {
+      "date": "2026-07-02",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 217
+    },
+    {
+      "date": "2026-07-03",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 205
+    },
+    {
+      "date": "2026-07-04",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 81
+    },
+    {
+      "date": "2026-07-05",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 52
+    },
+    {
+      "date": "2026-07-06",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 245
+    },
+    {
+      "date": "2026-07-07",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 154
+    },
+    {
+      "date": "2026-07-08",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 204
+    },
+    {
+      "date": "2026-07-09",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 208
+    },
+    {
+      "date": "2026-07-10",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 225
+    },
+    {
+      "date": "2026-07-11",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 54
+    },
+    {
+      "date": "2026-07-12",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 40
+    },
+    {
+      "date": "2026-07-13",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 192
+    },
+    {
+      "date": "2026-07-14",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 166
+    },
+    {
+      "date": "2026-07-15",
+      "vehicleType": "Težje tovorno vozilo",
+      "count": 45
+    },
+    {
+      "date": "2026-05-27",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 3
+    },
+    {
+      "date": "2026-05-28",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 1
+    },
+    {
+      "date": "2026-05-29",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 3
+    },
+    {
+      "date": "2026-05-30",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 2
+    },
+    {
+      "date": "2026-06-01",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 26
+    },
+    {
+      "date": "2026-06-02",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 26
+    },
+    {
+      "date": "2026-06-03",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 9
+    },
+    {
+      "date": "2026-06-04",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 22
+    },
+    {
+      "date": "2026-06-05",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 18
+    },
+    {
+      "date": "2026-06-06",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 3
+    },
+    {
+      "date": "2026-06-07",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 1
+    },
+    {
+      "date": "2026-06-08",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 24
+    },
+    {
+      "date": "2026-06-09",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 21
+    },
+    {
+      "date": "2026-06-10",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 27
+    },
+    {
+      "date": "2026-06-11",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 33
+    },
+    {
+      "date": "2026-06-12",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 31
+    },
+    {
+      "date": "2026-06-13",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 5
+    },
+    {
+      "date": "2026-06-14",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 0
+    },
+    {
+      "date": "2026-06-15",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 38
+    },
+    {
+      "date": "2026-06-16",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 27
+    },
+    {
+      "date": "2026-06-17",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 12
+    },
+    {
+      "date": "2026-06-18",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 26
+    },
+    {
+      "date": "2026-06-19",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 24
+    },
+    {
+      "date": "2026-06-20",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 7
+    },
+    {
+      "date": "2026-06-21",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 1
+    },
+    {
+      "date": "2026-06-22",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 29
+    },
+    {
+      "date": "2026-06-23",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 37
+    },
+    {
+      "date": "2026-06-24",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 16
+    },
+    {
+      "date": "2026-06-25",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 3
+    },
+    {
+      "date": "2026-06-26",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 13
+    },
+    {
+      "date": "2026-06-27",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 6
+    },
+    {
+      "date": "2026-06-28",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 41
+    },
+    {
+      "date": "2026-06-30",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 25
+    },
+    {
+      "date": "2026-07-01",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 16
+    },
+    {
+      "date": "2026-07-02",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 26
+    },
+    {
+      "date": "2026-07-03",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 45
+    },
+    {
+      "date": "2026-07-04",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 7
+    },
+    {
+      "date": "2026-07-05",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 0
+    },
+    {
+      "date": "2026-07-06",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 41
+    },
+    {
+      "date": "2026-07-07",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 18
+    },
+    {
+      "date": "2026-07-08",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 13
+    },
+    {
+      "date": "2026-07-09",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 17
+    },
+    {
+      "date": "2026-07-10",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 29
+    },
+    {
+      "date": "2026-07-11",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 3
+    },
+    {
+      "date": "2026-07-12",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 0
+    },
+    {
+      "date": "2026-07-13",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 37
+    },
+    {
+      "date": "2026-07-14",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 14
+    },
+    {
+      "date": "2026-07-15",
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "count": 8
+    },
+    {
+      "date": "2026-05-27",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-05-28",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-05-29",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-05-30",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-01",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-02",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-03",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-04",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-05",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-06",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-07",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-08",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-09",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-10",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-11",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-12",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-13",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-14",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-15",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-16",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-17",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-18",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-19",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-20",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-21",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-22",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-23",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-24",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-25",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-27",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-28",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-06-30",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-01",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-02",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-03",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-04",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-05",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-06",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-07",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-08",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-09",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-10",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-11",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-13",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-14",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-07-15",
+      "vehicleType": "Enosledno vozilo",
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-01",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-02",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-03",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-04",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-05",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-06",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-07",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-08",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-09",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-10",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-11",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-12",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-13",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-14",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-15",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-16",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-17",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-18",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-19",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-20",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-21",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-22",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-23",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-24",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-25",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-27",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-28",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-06-30",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-01",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-02",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-03",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-04",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-05",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-06",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-07",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-08",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-09",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-10",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    },
+    {
+      "date": "2026-07-11",
+      "vehicleType": "Nerazpoznana vozila",
+      "count": 0
+    }
+  ],
+  "speeds": [
+    {
+      "vehicleType": "Kombinirano vozilo",
+      "speed": 45
+    },
+    {
+      "vehicleType": "Osebni avtomobil",
+      "speed": 44
+    },
+    {
+      "vehicleType": "Težje tovorno vozilo",
+      "speed": 43
+    },
+    {
+      "vehicleType": "Tovorno vozilo s prikolico",
+      "speed": 40
+    }
+  ],
+  "parking": [
+    {
+      "week": "2026-07-06",
+      "parking": "Za Mošenikom, Tržič",
+      "occupancy": 86.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "Za Mošenikom, Tržič",
+      "occupancy": 88.0
+    },
+    {
+      "week": "2026-07-06",
+      "parking": "Tržnica, Tržič",
+      "occupancy": 66.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "Tržnica, Tržič",
+      "occupancy": 72.0
+    },
+    {
+      "week": "2026-07-06",
+      "parking": "Zdravstveni dom, Tržič",
+      "occupancy": 62.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "Zdravstveni dom, Tržič",
+      "occupancy": 64.0
+    },
+    {
+      "week": "2026-07-06",
+      "parking": "Cankarjeva cesta, Tržič",
+      "occupancy": 60.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "Cankarjeva cesta, Tržič",
+      "occupancy": 63.0
+    },
+    {
+      "week": "2026-07-06",
+      "parking": "Sokolnica, Tržič",
+      "occupancy": 35.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "Sokolnica, Tržič",
+      "occupancy": 36.0
+    },
+    {
+      "week": "2026-07-06",
+      "parking": "BPT, Tržič",
+      "occupancy": 31.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "BPT, Tržič",
+      "occupancy": 32.0
+    },
+    {
+      "week": "2026-07-06",
+      "parking": "DTO Tržič",
+      "occupancy": 19.0
+    },
+    {
+      "week": "2026-07-13",
+      "parking": "DTO Tržič",
+      "occupancy": 15.0
+    }
+  ]
+}
