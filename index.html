@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Prometni utrip Tržiča – pregleden prikaz prometa pri lokaciji CABLEX in zasedenosti parkirišč." />
+  <title>Prometni utrip Tržiča</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">OBČINA TRŽIČ · PILOTNA APLIKACIJA</p>
+      <h1>Prometni utrip Tržiča</h1>
+      <p class="subtitle">Promet pri števcu CABLEX in zasedenost bližnjih parkirišč</p>
+    </div>
+    <a class="map-link" href="https://maps.google.com/?q=46.357972,14.296889" target="_blank" rel="noreferrer">Odpri lokacijo ↗</a>
+  </header>
+
+  <main>
+    <section class="hero-panel">
+      <div>
+        <span class="status-dot"></span>
+        <strong>CABLEX</strong>
+        <span class="muted">· obe smeri · omejitev 50 km/h</span>
+      </div>
+      <div class="date-control">
+        <label for="dateSelect">Izbrani dan</label>
+        <select id="dateSelect"></select>
+      </div>
+    </section>
+
+    <section id="kpis" class="kpi-grid" aria-label="Glavni kazalniki"></section>
+
+    <section class="grid two-thirds">
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <p class="section-label">PROMETNI TOK</p>
+            <h2>Vozila skozi čas</h2>
+          </div>
+          <div class="segmented" role="group" aria-label="Prikaz grafa">
+            <button class="seg active" data-range="14">14 dni</button>
+            <button class="seg" data-range="30">30 dni</button>
+            <button class="seg" data-range="all">Vse</button>
+          </div>
+        </div>
+        <div id="trafficChart" class="chart" aria-label="Graf vozil skozi čas"></div>
+        <div id="trafficLegend" class="legend"></div>
+      </article>
+
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <p class="section-label">SESTAVA PROMETA</p>
+            <h2>Vozila po vrstah</h2>
+          </div>
+        </div>
+        <div id="vehicleBreakdown" class="breakdown"></div>
+      </article>
+    </section>
+
+    <section class="grid half">
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <p class="section-label">HITROST</p>
+            <h2>Povprečna hitrost po tipu vozila</h2>
+          </div>
+          <span class="limit-badge">omejitev 50 km/h</span>
+        </div>
+        <div id="speedChart" class="speed-list"></div>
+        <p class="info-note">Podatek prikazuje povprečje, zato iz njega ni mogoče določiti deleža posameznih prekoračitev hitrosti.</p>
+      </article>
+
+      <article class="card">
+        <div class="card-head">
+          <div>
+            <p class="section-label">PARKIRIŠČA</p>
+            <h2>Zasedenost parkirišč</h2>
+          </div>
+          <select id="weekSelect" aria-label="Izberi teden"></select>
+        </div>
+        <div id="parkingList" class="parking-list"></div>
+      </article>
+    </section>
+
+    <section class="card simulator-card">
+      <div class="card-head">
+        <div>
+          <p class="section-label">ENOSTAVNA SIMULACIJA</p>
+          <h2>Kaj se zgodi ob večjem prometu?</h2>
+          <p class="muted">Scenarijski prikaz temelji na izbranem dnevu in trenutnih tedenskih povprečjih parkirišč.</p>
+        </div>
+        <button id="resetSim" class="secondary-btn">Ponastavi</button>
+      </div>
+
+      <div class="sim-grid">
+        <div class="sim-controls">
+          <label for="trafficSlider">Povečanje prometa <strong id="trafficIncrease">+20 %</strong></label>
+          <input id="trafficSlider" type="range" min="-30" max="80" value="20" step="5" />
+
+          <label for="parkingSlider">Delež vozil, ki išče parkirišče <strong id="parkingShare">12 %</strong></label>
+          <input id="parkingSlider" type="range" min="2" max="35" value="12" step="1" />
+
+          <div class="assumption-box">
+            <strong>Pomembno:</strong> to je demonstracijski scenarij, ne prometna napoved. Za zanesljiv model potrebujemo urne podatke, kapacitete parkirišč in podatke o prihodih/odhodih.
+          </div>
+        </div>
+
+        <div id="simResults" class="sim-results"></div>
+      </div>
+
+      <div class="road-scene" aria-label="Animacija prometnega toka">
+        <div class="road-line"></div>
+        <div id="carsLayer" class="cars-layer"></div>
+      </div>
+    </section>
+
+    <section class="methodology">
+      <h2>Kaj trenutno prikazuje pilot?</h2>
+      <div class="method-grid">
+        <div><strong>50 dni</strong><span>dnevnih prometnih podatkov</span></div>
+        <div><strong>6 vrst</strong><span>razvrščenih vozil</span></div>
+        <div><strong>7 parkirišč</strong><span>tedenska zasedenost</span></div>
+        <div><strong>1 scenarij</strong><span>interaktivna sprememba prometa</span></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Prometni utrip Tržiča · pilotna različica</span>
+    <span id="dataRange"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
